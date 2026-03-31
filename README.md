@@ -17,14 +17,6 @@ A beautiful, interactive web application that lets you browse all 250 countries 
 
 ## 📸 Preview
 
-<div align="center">
-
-| Desktop View |
-| :---: |
-| ![World Visit Tracker - Desktop](https://world-visit-tracker.vercel.app/favicon.svg) |
-
-</div>
-
 > **🔗 Live Site:** [https://world-visit-tracker.vercel.app/](https://world-visit-tracker.vercel.app/)
 
 ---
@@ -147,12 +139,6 @@ GET https://openapi.programming-hero.com/api/all
 ```
 
 Returns data for **250 countries** including name, flag, capital, region, population, and area.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
