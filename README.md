@@ -17,6 +17,10 @@ A beautiful, interactive web application that lets you browse all 250 countries 
 
 ## 📸 Preview
 
+<p align="center">
+  <img src="./public/preview.png" alt="World Visit Tracker Preview" width="800" />
+</p>
+
 > **🔗 Live Site:** [https://world-visit-tracker.vercel.app/](https://world-visit-tracker.vercel.app/)
 
 ---
