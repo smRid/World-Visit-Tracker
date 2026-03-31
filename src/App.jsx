@@ -11,7 +11,7 @@ function App() {
     <div>
       <h1>World On The Go</h1>
 
-      <Suspense fallback={<p>Nadir vai loading</p>}>
+      <Suspense fallback={<p>Countries loading</p>}>
         <Countries countriesPromise={countriesPromise}></Countries>
       </Suspense>
     </div>
